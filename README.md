@@ -6,8 +6,8 @@ another until you get a single digit number. If it adds up to a multi-digit numb
 going until you get a single digit number.
 
 Ex: What is the digital root of "12345"?
-  1 + 2 + 3 + 4 + 5 = 15
-  1 + 5 = 6
+1 + 2 + 3 + 4 + 5 = 15
+1 + 5 = 6
 
 Digital root of 12345 is 6.
 
