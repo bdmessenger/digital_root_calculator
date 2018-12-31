@@ -2,8 +2,8 @@
 
 Using python, I have put together a calculator to calculate digital roots.
 To get the digital root, you would take a multi-digit number like "12345" and have each digit add up one to
-another until you get a single digit number. If it adds up to a multi-digit number, then keep the process
-going until you get a single digit number.
+another until you get a single digit number. If it adds up to a multi-digit number, then it'll keep the process
+going until it results as a single digit number.
 
 Ex: What is the digital root of "12345"? 
 
